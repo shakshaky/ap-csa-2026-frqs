@@ -16,15 +16,23 @@ public String getShortenedName() {
     
     String letter = username.substring(i, i + 1);
     
-    if (i > 0) {
-      String previous = username.substring(i - 1, i);
-    }
-    
-    if (!letter.equals("-") && !letter.equals(previous) {
-      newName += letter;
+    if (!letter.equals("-") {
+      
+      if (i > 0) {
+        
+        String previous = username.substring(i - 1, i);
+
+        if (!letter.equals(previous)) {
+          newName += letter;
+        }
+        
+      } else {
+        
+        newName += letter;
+        
+      }
     }
   }
-
 }
 
 // SOLUTION ABOVE
