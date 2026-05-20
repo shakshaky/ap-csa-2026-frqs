@@ -5,6 +5,9 @@ private String username; // To be initialized in part (a)
 * with 1, to requestedName until an available username is found,
 * as described in part (a).
 */
+
+// SOLUTION BELOW
+
 public Account(String requestedName) { 
   
   username = requestedName;
@@ -16,6 +19,9 @@ public Account(String requestedName) {
   }
 
 }
+
+// SOLUTION ABOVE
+
 /**
 * Returns true if the parameter str is an available username;
 * returns false otherwise.
