@@ -10,8 +10,8 @@ public Account(String requestedName) {
   username = requestedName;
   int version = 1;
 
-  while (!isAvailable(username)) { // while username is not available, add 1 to the end of the name until its available
-    username = requestedName + version; //Ex: Unavailable = Shak, Available = Shak2872
+  while (!isAvailable(username)) {
+    username = requestedName + version;
     i++;
   }
 
