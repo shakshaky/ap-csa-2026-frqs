@@ -6,15 +6,28 @@
 * username.length() >= 2
 * Postcondition: username is unchanged.
 */
+
+// SOLUTION BELOW
+
 public String getShortenedName() {
   String newName = ""; // initialize new String that is "hyphen free"
 
-  for (String letter : username) {
-    if (!letter.equals("-") { // if this letter doesnt equal the hyphen... ("Shak-Ganiev-Shaky") 
-      newName += letter; //add this letter to the new String ("ShakGanievShaky")
+  for (int i = 0; i < username.length(); i++) {
+    
+    String letter = username.substring(i, i + 1);
+    
+    if (i > 0) {
+      String previous = username.substring(i - 1, i);
+    }
+    
+    if (!letter.equals("-") && !letter.equals(previous) {
+      newName += letter;
     }
   }
 
 }
+
+// SOLUTION ABOVE
+
 /* There may be instance variables, constructors, and methods
 that are not shown. */
