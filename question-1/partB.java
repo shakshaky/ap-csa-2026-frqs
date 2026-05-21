@@ -10,16 +10,14 @@
 // SOLUTION BELOW
 
 public String getShortenedName() {
-  String newName = ""; // initialize new String that is "hyphen free"
+  String newName = "";
 
   for (int i = 0; i < username.length(); i++) {
-    
     String letter = username.substring(i, i + 1);
     
     if (!letter.equals("-") {
-      
+    
       if (i > 0) {
-        
         String previous = username.substring(i - 1, i);
 
         if (!letter.equals(previous)) {
@@ -27,7 +25,6 @@ public String getShortenedName() {
         }
         
       } else {
-        
         newName += letter;
         
       }
