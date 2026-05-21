@@ -10,26 +10,16 @@
 // SOLUTION BELOW
 
 public String getShortenedName() {
-  String newName = "";
+  String newUser = username; // "Shak-Ganiev-Hello"
 
-  for (int i = 0; i < username.length(); i++) {
-    String letter = username.substring(i, i + 1);
-    
-    if (!letter.equals("-") {
-    
-      if (i > 0) {
-        String previous = username.substring(i - 1, i);
+  int found = newUser.indexOf("-"); 
 
-        if (!letter.equals(previous)) {
-          newName += letter;
-        }
-        
-      } else {
-        newName += letter;
-        
-      }
-    }
+  while (found != -1) {
+    newUser = newUser.substring(0, found - 1) + newUser.substring(found + 1); // "ShaGanieHello"
+    
   }
+  return newUser; // "ShaGanieHello"
+  
 }
 
 // SOLUTION ABOVE
