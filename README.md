@@ -4,6 +4,6 @@ My solutions and explanations for the 2026 AP Computer Science A Free Response Q
 ## Questions
 
 - Question 1: Account.java
-- Question 2: 
+- Question 2: Bottle.java
 - Question 3: 
 - Question 4:
