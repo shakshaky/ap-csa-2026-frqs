@@ -1,10 +1,12 @@
-## My Approach
+## Bottle.java FRQ
+
+This FRQ instructed me to create a full Bottle class with constructors, and a method called updateAmount containing a double parameter
 
 I knew I had to remove the amount by the parameter in updateAmount(), and then set a condition stating
 "if this amount is less than a quarter of the max." 
 
-'if (amount < 0.25 * capacity)'
-
+if (amount < 0.25 * capacity)
+-
 ## Course Connections
 
 
