@@ -6,7 +6,7 @@ I knew I had to remove the amount by the parameter in updateAmount(), and then s
 "if this amount is less than a quarter of the max." 
 
 if (amount < 0.25 * capacity)
--
+
 ## Course Connections
 
 
