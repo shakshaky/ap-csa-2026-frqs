@@ -2,8 +2,8 @@
 
 ### Part A
 
-I knew I had to set Username to RequestedName for the constructor.
-A "not-while" loop was necessary to check if each version of the username was available.
+- I knew I had to set Username to RequestedName for the constructor.
+- A "not-while" loop was necessary to check if each version of the username was available.
 
 ### Part B
 
