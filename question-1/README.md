@@ -7,7 +7,7 @@
 
 ### Part B
 
-- I knew I had to use <mark>indexOf</mark> to be successful in finding the new String.
+- I knew I had to use '''indexOf''' to be successful in finding the new String.
 
 ## Course Connections
 
