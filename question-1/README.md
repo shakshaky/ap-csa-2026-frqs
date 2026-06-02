@@ -7,7 +7,7 @@
 
 ### Part B
 
-
+- I knew I had to use indexOf to be successful in finding the new String.
 
 ## Course Connections
 
@@ -21,7 +21,8 @@
 
 ## What Gave Me Trouble
 
-Neither parts gave me trouble.
+- Part A didn't give me trouble.
+- I struggled with finding out how to delete the letter before "-".
 
 ## What I Would Do Differently
 
