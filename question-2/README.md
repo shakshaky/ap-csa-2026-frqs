@@ -1,10 +1,6 @@
 ## My Approach
 
-This FRQ instructed me to create a full ```Bottle``` class with constructors, and a method called ```updateAmount()``` containing a ```double``` parameter
-
-I knew I had to remove the amount by the parameter in ```updateAmount()```, and then set a condition stating
-"if this amount is less than a quarter of the max." 
---> ```if (amount < 0.25 * capacity)```
+I was instructed to create a full ```Bottle``` class with constructors, and a method called ```updateAmount()``` containing a ```double``` parameter.
 
 ## Course Connections
 
@@ -12,7 +8,7 @@ I knew I had to remove the amount by the parameter in ```updateAmount()```, and 
 
 ## What Gave Me Trouble
 
-I realized that I kept setting the bottle amount to the max capacity everytime the ```updateAmount()``` method was used.
+My mistake was that I kept setting the bottle amount to the max capacity everytime the ```updateAmount()``` method was used.
 
 ## What I Would Do Differently
 
