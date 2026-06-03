@@ -3,7 +3,7 @@
 ### Part A
 
 - I knew I had to set ```Username = RequestedName``` for the constructor.
-- A not ```while``` loop was necessary to check if each version of the username was available.
+- A (not) ```while``` loop was necessary to check if each version of the username was available.
 
 ### Part B
 
