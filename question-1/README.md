@@ -22,7 +22,7 @@
 ## What Gave Me Trouble
 
 - Part A didn't give me trouble.
-- I struggled with finding out how to delete the letter before "-".
+- For Part B, I struggled with finding out how to delete the letter before "-".
 
 ## What I Would Do Differently
 
