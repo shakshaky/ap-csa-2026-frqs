@@ -4,13 +4,16 @@ I was instructed to create the ```moreHistoryThanMathAbsences``` method containi
 
 I knew that I had to create two enhanced loops, going through ```historyList``` and ```mathList```, as it was the easiest way to solve the method.
 
+
 ## Course Connections
 
 This problem reminded me of the **Conway Game of Life** project I did. Just because of the two for-loops I had to create, I was instantly reminded of the 2D arrays with rows and columns.
 
+
 ## What Gave Me Trouble
 
 What gave me trouble is that I originally tried to create two traditional loops, but I realized halfway that was too complicated to write, harder to read, and overall just unneccessary for the problem.
+
 
 ## What I Would Do Differently
 
