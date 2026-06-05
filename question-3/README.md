@@ -17,4 +17,5 @@ What gave me trouble is that I originally tried to create two traditional loops,
 I would probably create a variable for each getter for better readability and less repitition. For example...
 
 ```String historyID = historyList.getStudentID()```
+
 ```String mathID = mathList.getStudentID()```
