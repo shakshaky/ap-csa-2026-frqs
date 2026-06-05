@@ -4,7 +4,7 @@ I was instructed to create a full ```Bottle``` class with constructors, and a me
 
 ## Course Connections
 
-
+This question reminded me of the **Whack-A-Mole (Object Oriented) Project** I did, where I had to use ```formula <= diameter / 2``` in order to create a proper circular hitbox, that chnaged position whenever it was clicked.
 
 ## What Gave Me Trouble
 
