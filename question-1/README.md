@@ -17,8 +17,12 @@ Example:
 
 txt = ```Feb 8  18°F```
 
+becomes...
+
 firstSpace = ```Feb```
+
 secondSpace = ```8```
+
 lastSpace = ```18°F```
 
 ## What Gave Me Trouble
