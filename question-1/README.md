@@ -11,13 +11,15 @@
 
 ## Course Connections
 
-### Part A
+This problem reminded me of the **Temperature Heatmap** project I created before, where I had to use ```indexOf``` in order to separate a ```.txt``` file based on the first space, second and last space.
 
+Example:
 
+txt = ```Feb 8  18°F```
 
-### Part B
-
-
+firstSpace = ```Feb```
+secondSpace = ```8```
+lastSpace = ```18°F```
 
 ## What Gave Me Trouble
 
