@@ -6,7 +6,7 @@ I knew that I had to create two enhanced loops, going through ```historyList``` 
 
 ## Course Connections
 
-
+This problem reminded me of the **Conway Game of Life** project I did. Just because of the two for-loops I had to create, I was instantly reminded of the 2D arrays with rows and columns.
 
 ## What Gave Me Trouble
 
